@@ -36,3 +36,5 @@ Căn hàng: Căn đều trục ngang (Align Vertical Center) giữa các nút tr
 2. Trình bày trên Figma Canvas
 Frame 1 — Before (Legacy UI): Giữ nguyên bản Wireframe lỗi ban đầu để đối chiếu.
 Frame 2 — After (Fixed Wireframe): Wireframe đã thay thế trường Giới tính sang cụm Radio Button theo đúng tiêu chuẩn.
+link figma : https://www.figma.com/design/6W3FC3JpvJshgytAMQyaCg/Session-13--V%25E1%25BA%25ADn-d%25E1%25BB%25A5ng-c%25C6%25A1-b%25E1%25BA%25A3n-S%25E1%25BB%25ACA-L%25E1%25BB%2596I-GIAO-DI%25E1%25BB%2586N-FORM-%25C4%2590%25C4%2582NG-K%25C3%259D-?node-id=0-1&p=f&t=SHZJJgfLBI3lkKdw-0
+
